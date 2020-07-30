@@ -1,4 +1,4 @@
-# sep_30_git_coll_chetan
+# sep_git_coll_chetan
 To learn about the git collaboration
 
 - 'git clone <url>': Downloads the repository from the web to your local computer 
