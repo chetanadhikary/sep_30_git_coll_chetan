@@ -1,0 +1,51 @@
+  689  cd git_learn
+  690  mkdir git_learn
+  691  cd git_learn/
+  692  git clone https://github.com/chetanadhikary/sep_30_git_coll_chetan.git
+  693  cd sep_30_git_coll_chetan/
+  694  ls
+  695  git remote -v
+  696  gedit README.md 
+  697  cat README.md 
+  698  git status
+  699  git diff
+  700  gedit README.md 
+  701  git diff
+  702  git add README.md 
+  703  git status
+  704  git commit -m "About git clone"
+  705  git push origin master
+  706  gedit README.md 
+  707  git status
+  708  git add README.md 
+  709  git commit -m "Added bullets"
+  710  git push origin master
+  711  gedit README.md 
+  712  git add README.md 
+  713  git push README.md
+  714  git commit -m  "Clone Information"
+  715  git push origin master
+  716  git branch my_first_branch
+  717  git log --online
+  718  git log --oneline
+  719  git branch -a
+  720  git checkout my_first_branch 
+  721  git status
+  722  git branch -a
+  723  gedit README.md 
+  724  git status
+  725  git add README.md 
+  726  git status
+  727  git commit -m "Create and move to branch"
+  728  git status
+  729  git log --oneline
+  730  git checkout master
+  731  git log --oneline
+  732  git log --oneline --all
+  733  git log --oneline --all --graph
+  734  git log --oneline --all --graph --decorate
+  735  cat README.md 
+  736  git push origin my_first_branch 
+  737  history -> first_session.txt
+  738  history
+  739  history > first_session.txt
