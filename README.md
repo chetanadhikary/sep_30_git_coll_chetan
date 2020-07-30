@@ -1,5 +1,7 @@
-# sep_30_git_coll_chetan
+# sep_30 : Git Collaboration
 To learn about the git collaboration
+
+## Branches
 
 - 'git clone <url>': Downloads the repository from the web to your local computer 
  - make sure you dont nest this command into another repository
@@ -8,6 +10,8 @@ To learn about the git collaboration
 - 'git branch <branch name>': create a new branch where HEAD is
 	- 'git branch -a': list all the branches
 - 'git switch <branch name>' : move to branch
+
+## Pull Requests (online merge)
 - 'git log --oneline --graph --decorate --all': shows you your git history tree
 	- you can look up how to set this as git alias
 - 'git fetch --prune': clean your git history , and remove references from remote	that does not exist 
